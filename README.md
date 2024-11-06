@@ -1,2 +1,2 @@
 # iSunCoin-CCR
-iSunCoin Cross-Chain Relay
+iSunCoin Cross-Chain Router
